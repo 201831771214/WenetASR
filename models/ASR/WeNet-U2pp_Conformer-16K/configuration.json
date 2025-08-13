@@ -1,0 +1,14 @@
+{
+    "framework": "torch",
+    "task": "auto-speech-recognition",
+    "model": {
+        "type": "wenet-asr",
+        "am_model_name": "u2pp_conformer",
+        "model_config": {
+            "fs": 16000
+        }
+    },
+    "pipeline": {
+        "type": "asr-wenet-inference"
+    }
+}

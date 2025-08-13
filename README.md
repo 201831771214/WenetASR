@@ -1,8 +1,8 @@
 # WenetASR 项目
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Python Version](https://img.shields.io/badge/Python-3.8%2B-brightgreen)](https://www.python.org/)
-[![WeNet Version](https://img.shields.io/badge/WeNet-Integrated-blue)](https://github.com/wenet-e2e/wenet)
+[![License](./sources/License-Apache-2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Python Version](./sources/Python-3.10+-brightgreen.svg)](https://www.python.org/)
+[![WeNet Version](./sources/WeNet-Integrated-blue.svg)](https://github.com/wenet-e2e/wenet)
 
 ## 项目概述
 
